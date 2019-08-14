@@ -10,7 +10,7 @@
   export default Vue.extend({
     data: function() {
       return {
-        name: 'Hello World!',
+        name: 'Hello World!!',
       }
     },
   });
